@@ -1,4 +1,6 @@
 # LangChain Mastery: Building Context-Aware AI Applications
+```
+ I am tauheed
 
 
 ## Overview
@@ -33,9 +35,7 @@ Creating autonomous agents that can:
 * Search the web for real-time information.
 * Execute Python code for mathematical calculations.
 * Interact with external APIs via n8n.
-```
- I am tauheed
-'''
+
 
 ## 📁 Repository Structure
 
