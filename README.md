@@ -6,12 +6,6 @@ LangChain is an **open-source framework** that simplifies building applications 
 - Offers tools for effective prompt engineering and memory handling.
 - Streamlines the process of building LLM-powered applications.
 
-#  LangChain Notes
-
-##  What is LangChain?
-
-LangChain is an **open-source framework** used to build applications powered by **Large Language Models (LLMs)**.
-
 Its core purpose is **orchestration** — connecting multiple components such as:
 - Language models
 - APIs
