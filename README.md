@@ -1,6 +1,6 @@
-# 🚀 LangChain Notes
+#  LangChain Notes
 
-## 📌 What is LangChain?
+##  What is LangChain?
 
 LangChain is an **open-source framework** used to build applications powered by **Large Language Models (LLMs)**.
 
@@ -14,7 +14,7 @@ All combined into a **single streamlined pipeline** with minimal code.
 
 ---
 
-## 🧩 Core Components of LangChain
+##  Core Components of LangChain
 
 LangChain is built on several modular components that work together to create intelligent systems:
 
@@ -66,11 +66,11 @@ Input → Prompt → Model → Output → Next Step
 
 #### 🔹 Chatbot vs AI Agent
 
-| Feature        | Chatbot           | AI Agent                  |
-|----------------|------------------|---------------------------|
-| Behavior       | Reactive          | Autonomous                |
-| Reasoning      | Limited           | Advanced                  |
-| Tool Usage     | No                | Yes                       |
+| Feature                   | Chatbot                           | AI Agent                                                              |
+|---------------------------|-----------------------------------|-----------------------------------------------------------------------|
+| Behavior                  | Reactive                          | Autonomous                                                            |
+| Reasoning                 | Limited                           | Advanced                                                              |
+| Tool Usage                | No                                | Yes                                                                   |
 
 #### 🔹 AI Agents
 
