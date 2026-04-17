@@ -6,23 +6,6 @@ LangChain is an open-source framework that simplifies building applications usin
 - Offers tools for effective prompt engineering and memory handling.
 - Streamlines the process of building LLM-powered applications.
 
-#h 
-t
-​
- =tanh(W 
-hh
-​
- ⋅h 
-t−1
-​
- +W 
-xh
-​
- ⋅x 
-t
-​
- )
-
 #  LangChain Notes
 
 ##  What is LangChain?
